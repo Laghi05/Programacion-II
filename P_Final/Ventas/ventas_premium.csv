@@ -1,0 +1,101 @@
+id_venta,fecha_pedido,fecha_envio,nombre_cliente,apellido_cliente,correo_cliente,telefono_cliente,nacionalidad_cliente,vendedor,producto,cantidad,monto,impuesto,tipo_tarjeta,no_tarjeta
+1,2024-08-30,2024-11-12,Dinny,Guillond,dguillond0@ning.com,7036848703,United States,97-2136523,"Pork - Tenderloin, Fresh",5,10861,0.904,mastercard,5048379077471424
+2,2024-10-08,2024-08-18,Stefano,Wooffitt,swooffitt1@google.com,2485159104,Mexico,08-3359811,"Yeast - Fresh, Fleischman",1,12027,0.832,mastercard,5108752447696424
+3,2024-07-31,2024-05-20,Chelsie,Vials,cvials2@hostgator.com,2294773511,United States,00-8314362,Sugar - Cubes,6,8177,0.902,mastercard,5108758180321161
+4,2024-09-21,2024-08-16,Janifer,Durbin,jdurbin3@joomla.org,9137103955,Mexico,58-3345781,Icecream Cone - Areo Chocolate,7,7540,0.458,mastercard,5048376501270406
+5,2024-09-19,2024-04-01,Jehanna,Amort,jamort4@about.me,3106700644,United States,79-3781698,Pate Pans Yellow,1,4046,0.291,mastercard,5108757221713089
+6,2024-05-31,2024-11-05,Mal,Silber,msilber5@noaa.gov,2025883148,United States,61-1074040,Turkey Tenderloin Frozen,1,7913,0.433,mastercard,5108750013858675
+7,2024-10-22,2024-07-29,Alikee,Cottell,acottell6@lycos.com,7721652650,United States,37-8092889,Beef - Flank Steak,6,9430,0.309,mastercard,5048377040261526
+8,2024-07-30,2024-10-21,Meredith,Mounsey,mmounsey7@home.pl,9245896322,Colombia,04-1781862,Sauce - Roasted Red Pepper,1,6250,0.717,mastercard,5048376038401433
+9,2024-03-10,2024-11-27,Kata,Birkmyre,kbirkmyre8@discovery.com,2937787359,Colombia,79-7972239,Wine - Two Oceans Cabernet,3,11428,0.501,mastercard,5108759009577447
+10,2024-09-18,2024-05-27,Nannette,Ledur,nledur9@nationalgeographic.com,6026834412,United States,81-6787276,"Chicken - Leg, Fresh",10,3844,0.672,mastercard,5108750806265690
+11,2024-09-23,2024-07-05,Lyle,Hendrix,lhendrixa@dion.ne.jp,5011622320,United States,12-1404658,Goldschalger,9,4144,0.579,mastercard,5048375223244566
+12,2024-11-28,2023-12-26,Ingrid,Roden,irodenb@tripadvisor.com,3189471923,United States,44-3478985,Glaze - Apricot,10,3289,0.712,mastercard,5108752706287527
+13,2024-11-23,2024-01-27,Chancey,McParlin,cmcparlinc@360.cn,5016256078,United States,04-5323286,Muffin Hinge - 211n,6,7460,0.533,mastercard,5108758418253780
+14,2024-09-27,2024-09-04,Thain,Blondel,tblondeld@google.ru,1507073357,Colombia,04-1781862,Bay Leaf Ground,8,11788,0.546,mastercard,5108752349766747
+15,2024-03-23,2023-12-26,Lionello,Templar,ltemplare@wufoo.com,2246165306,Colombia,73-1937833,"Peas - Pigeon, Dry",6,6121,0.523,mastercard,5108752203441288
+16,2024-01-03,2024-06-14,Rickie,Bowkley,rbowkleyf@lulu.com,4012886512,United States,04-7509835,"Cake Circle, Foil, Scallop",6,9275,0.95,mastercard,5108758528391405
+17,2024-04-16,2024-04-08,Quentin,Andreichik,qandreichikg@cam.ac.uk,4325118208,United States,35-1306564,Bar - Granola Trail Mix Fruit Nut,10,4438,0.862,mastercard,5048373719533444
+18,2024-01-05,2024-05-15,Friedrick,Braghini,fbraghinih@ifeng.com,6558550276,Colombia,18-9731608,"Squash - Pattypan, Yellow",4,7687,0.063,mastercard,5108755265236579
+19,2024-03-25,2024-01-18,Sibyl,Dominique,sdominiquei@wsj.com,6896699438,Mexico,62-9191738,Coffee Cup 16oz Foam,8,10321,0.327,mastercard,5108759408551860
+20,2024-01-18,2024-09-19,Jo ann,Bortoletti,jbortolettij@nhs.uk,7951980972,Mexico,35-2698868,Juice - Apple 284ml,8,3509,0.755,mastercard,5048375363317362
+21,2024-02-27,2024-04-02,Forrest,Capelen,fcapelenk@indiatimes.com,5756789419,Colombia,87-0840678,Flour - So Mix Cake White,1,6879,0.133,mastercard,5048372810758348
+22,2024-02-29,2024-06-26,Davin,Waison,dwaisonl@techcrunch.com,8583316430,United States,65-8990277,Tuna - Salad Premix,4,12119,0.494,mastercard,5048374749394260
+23,2024-09-30,2023-12-19,Herby,Adelberg,hadelbergm@ycombinator.com,1296132472,Mexico,60-2972643,Lettuce - Sea / Sea Asparagus,6,11356,0.153,mastercard,5108753140542519
+24,2024-06-22,2024-02-21,Ethe,Gosney,egosneyn@technorati.com,2327328883,Dominican Republic,05-5140393,Pastry - French Mini Assorted,2,9811,0.315,mastercard,5048378404152541
+25,2024-09-13,2024-08-01,Raimondo,Astles,rastleso@about.me,9842585911,Colombia,72-1063019,Puff Pastry - Slab,6,12680,0.622,mastercard,5108759953069177
+26,2024-04-09,2024-11-15,Aimil,Endon,aendonp@disqus.com,1235997893,Mexico,97-1407392,Sambuca - Opal Nera,10,4219,0.725,mastercard,5108759039378063
+27,2024-07-05,2024-06-09,Diena,Vearncombe,dvearncombeq@oakley.com,9228052710,Mexico,23-0714269,Milk - Chocolate 500ml,7,10347,0.083,mastercard,5048375449074060
+28,2024-08-31,2024-03-30,Ban,Imort,bimortr@live.com,2864831256,Colombia,73-1937833,Filling - Mince Meat,2,12400,0.771,mastercard,5108759906573572
+29,2024-05-22,2024-03-25,Cecilla,Bidmead,cbidmeads@github.com,8433857171,United States,86-2640869,Beets - Golden,4,5409,0.66,mastercard,5048372392968190
+30,2024-09-04,2024-08-07,Sile,Simoneau,ssimoneaut@livejournal.com,3708581030,Colombia,04-1781862,"Tart Shells - Savory, 2",8,9169,0.053,mastercard,5048377273673645
+31,2024-10-23,2024-08-15,Joshia,Antonomoli,jantonomoliu@squarespace.com,9722130416,United States,51-3662457,"Rum - Light, Captain Morgan",2,9688,0.678,mastercard,5048376555382628
+32,2024-07-18,2024-02-13,Tierney,Carlo,tcarlov@ucoz.com,9681249802,Mexico,59-6399780,Tamarillo,4,9935,0.852,mastercard,5048378399246118
+33,2024-08-12,2024-05-13,Ruthanne,Pettit,rpettitw@networksolutions.com,9289763584,Mexico,91-9571840,Fib N9 - Prague Powder,1,6231,0.263,mastercard,5048372565067523
+34,2024-05-13,2024-03-24,Pren,Fleckness,pflecknessx@sun.com,6825371668,United States,82-8733224,Sea Bass - Fillets,6,12492,0.906,mastercard,5048375341996311
+35,2024-01-19,2024-01-16,Edna,Blackborn,eblackborny@webs.com,7557797196,Mexico,10-0019811,"Pepper - Black, Ground",4,8002,0.614,mastercard,5048378638856867
+36,2024-07-08,2024-07-30,Alvira,Barley,abarleyz@flickr.com,3188740957,Mexico,33-9247082,Sausage - Blood Pudding,7,9770,0.395,mastercard,5108750917057465
+37,2024-01-12,2024-05-06,Merridie,Keford,mkeford10@jugem.jp,6142842753,United States,29-8881205,V8 - Vegetable Cocktail,2,5485,0.969,mastercard,5108759591731881
+38,2024-01-13,2024-02-01,Borg,Burgett,bburgett11@answers.com,7558313533,Colombia,50-3148448,Tea - Lemon Scented,10,9289,0.117,mastercard,5108753576083814
+39,2024-05-04,2024-01-19,Adlai,Pautard,apautard12@flickr.com,8173251088,Colombia,23-0714269,Cocoa Powder - Natural,8,3786,0.251,mastercard,5048376709550864
+40,2024-02-16,2024-04-19,Marya,Geeraert,mgeeraert13@marriott.com,6136843775,Colombia,97-6655926,Cassis,10,10656,0.659,mastercard,5048374837233644
+41,2024-08-20,2024-10-31,Barr,Thomton,bthomton14@oakley.com,5715123800,United States,26-7750002,"Pasta - Shells, Medium, Dry",1,9446,0.483,mastercard,5048378595631485
+42,2024-03-06,2024-08-04,Kenna,Lashford,klashford15@sakura.ne.jp,2625514190,Mexico,09-6282213,Juice - V8 Splash,7,7427,0.601,mastercard,5048378189289674
+43,2024-06-03,2024-04-14,Elyssa,Sprouls,esprouls16@buzzfeed.com,2643585199,Mexico,31-2236475,Pepper - Red Thai,10,13149,0.94,mastercard,5048370233528652
+44,2024-06-09,2024-07-15,Leone,Gritskov,lgritskov17@i2i.jp,8171034703,United States,14-7026110,French Pastry - Mini Chocolate,5,8388,0.804,mastercard,5108758630052200
+45,2024-04-24,2024-02-21,Filide,Reach,freach18@booking.com,4107397003,United States,73-7638593,"Beef - Rib Roast, Capless",3,10106,0.777,mastercard,5108755512966531
+46,2024-03-26,2024-06-18,Abagail,Balfour,abalfour19@google.com.br,4148184630,United States,34-0256472,"Nut - Peanut, Roasted",3,5491,0.134,mastercard,5048373743450086
+47,2024-03-09,2024-03-30,Rachele,Castells,rcastells1a@wisc.edu,8177310291,United States,29-7137664,Nectarines,7,5821,0.865,mastercard,5048376354029651
+48,2024-11-23,2024-10-07,Shelton,Casina,scasina1b@virginia.edu,8693770661,Mexico,62-4197235,Wine - Malbec Trapiche Reserve,6,10581,0.196,mastercard,5048373133935670
+49,2024-02-04,2024-10-16,Salli,Trimble,strimble1c@nih.gov,6187354747,Dominican Republic,97-2136523,Nantucket - Pomegranate Pear,10,13698,0.743,mastercard,5108756613622510
+50,2024-04-10,2024-03-28,Forbes,Middleweek,fmiddleweek1d@lulu.com,2531022463,United States,02-4260277,Beef Ground Medium,3,7662,0.518,mastercard,5108750545150971
+51,2024-08-12,2024-03-27,Ellette,Petkovic,epetkovic1e@last.fm,6011016851,Mexico,97-2136523,"Napkin - Dinner, White",9,11653,0.575,mastercard,5108756392239130
+52,2024-02-16,2024-08-31,Diena,Larrad,dlarrad1f@google.ca,1266072248,Colombia,90-6094406,Pastry - Butterscotch Baked,7,4714,0.75,mastercard,5048370771479227
+53,2024-09-18,2024-09-01,Vera,Hawket,vhawket1g@imdb.com,4041263958,United States,98-4636124,Pickerel - Fillets,1,12929,0.255,mastercard,5108750436660963
+54,2024-11-21,2024-08-04,Carrissa,Nibley,cnibley1h@macromedia.com,7136863007,United States,32-7274154,Red Currants,1,7508,0.528,mastercard,5108759097665484
+55,2024-05-05,2024-05-12,Briny,Hatchman,bhatchman1i@tuttocitta.it,3177499586,United States,70-8572197,Nantucket Apple Juice,7,13622,0.4,mastercard,5108758199778351
+56,2024-07-13,2024-01-22,Georgie,Meran,gmeran1j@naver.com,3177225608,United States,91-1361758,Pear - Packum,7,12075,0.012,mastercard,5108751384047625
+57,2024-06-13,2024-08-29,Darelle,Van den Broek,dvandenbroek1k@rediff.com,5125174188,United States,35-1306564,Coffee Decaf Colombian,7,8475,0.071,mastercard,5048375133544840
+58,2024-01-13,2024-03-24,Graham,Arington,garington1l@google.nl,3181395876,United States,52-4537395,Coffee - 10oz Cup 92961,1,13078,0.859,mastercard,5108753638629984
+59,2024-07-23,2024-03-20,Virgie,Czapla,vczapla1m@nifty.com,3304816881,United States,14-8312422,Cup - Paper 10oz 92959,6,6415,0.853,mastercard,5048378049905535
+60,2024-04-17,2024-04-28,Tiler,Brayfield,tbrayfield1n@nyu.edu,8695769981,Mexico,58-8445429,Irish Cream - Baileys,1,3184,0.197,mastercard,5108756663050711
+61,2024-11-29,2024-03-30,Korry,Finnimore,kfinnimore1o@cpanel.net,5138577023,United States,35-6126375,Chips Potato Swt Chilli Sour,2,6454,0.817,mastercard,5108758914096667
+62,2024-07-25,2024-05-11,Sheela,Camacho,scamacho1p@sciencedirect.com,4174917570,Colombia,84-9995228,Coffee Beans - Chocolate,3,11781,0.874,mastercard,5048377060008815
+63,2024-09-12,2024-05-03,Ricardo,MacCleay,rmaccleay1q@devhub.com,8016059460,United States,12-0301057,Miso Paste White,1,9508,0.848,mastercard,5048378103059872
+64,2024-11-18,2024-08-08,Merle,Giampietro,mgiampietro1r@va.gov,2813609910,United States,77-1965576,"Pasta - Fettuccine, Dry",7,5432,0.192,mastercard,5108759844528365
+65,2024-06-26,2023-12-22,Ned,Cleevely,ncleevely1s@ftc.gov,7024251437,United States,27-7801766,Muffin - Mix - Bran And Maple 15l,5,14105,0.975,mastercard,5048374945735571
+66,2024-02-01,2024-01-22,Audrey,Giorgietto,agiorgietto1t@nyu.edu,5585844925,Mexico,15-2318490,Nantucket - Kiwi Berry Cktl.,9,8108,0.62,mastercard,5048372739592620
+67,2024-03-14,2024-01-29,Earl,Reast,ereast1u@springer.com,3321461608,Colombia,97-1407392,Beer - Guiness,9,7420,0.458,mastercard,5108759872766697
+68,2024-07-13,2024-05-04,Fredric,Crosetto,fcrosetto1v@cnet.com,4029052638,United States,04-7088264,Lotus Leaves,7,8441,0.476,mastercard,5048371977740289
+69,2024-10-14,2024-04-09,Jason,Bourdas,jbourdas1w@posterous.com,6986442524,Mexico,33-9247082,"Tendrils - Baby Pea, Organic",5,13804,0.394,mastercard,5108751836216794
+70,2024-04-19,2024-05-08,Nicole,Attridge,nattridge1x@businessweek.com,8168178670,United States,85-1089220,"Stock - Veal, Brown",6,13342,0.476,mastercard,5048379733205547
+71,2024-03-13,2024-01-01,Tedda,Bhatia,tbhatia1y@state.gov,6049846495,Mexico,24-8238298,Molasses - Fancy,6,7628,0.636,mastercard,5048375445636268
+72,2024-06-13,2024-10-25,Melanie,Hazeldine,mhazeldine1z@ca.gov,7227601127,Colombia,78-5368317,Beer - Blue Light,4,8458,0.199,mastercard,5048375773716161
+73,2024-08-08,2024-04-29,Marja,Dunbavin,mdunbavin20@army.mil,7196773725,United States,65-8990277,Sloe Gin - Mcguinness,1,12142,0.958,mastercard,5108750469485411
+74,2024-01-01,2024-04-16,Jaine,Abson,jabson21@hhs.gov,9134035357,United States,38-7030185,Pepper - Cayenne,6,6013,0.849,mastercard,5108752615607120
+75,2024-05-12,2024-03-26,Sergio,Josovich,sjosovich22@techcrunch.com,2053232826,United States,99-4094901,"Lamb - Leg, Diced",6,9141,0.646,mastercard,5108756825620674
+76,2024-04-30,2024-04-07,Dugald,Isted,disted23@nbcnews.com,4523207588,Colombia,14-8312422,Kiwano,9,9892,0.026,mastercard,5048376602231026
+77,2024-01-20,2024-01-25,Skylar,Scholer,sscholer24@hhs.gov,3136112288,United States,73-7638593,"Wine - White, Schroder And Schyl",7,9247,0.013,mastercard,5048377109476478
+78,2024-05-31,2024-08-10,Indira,Syncke,isyncke25@domainmarket.com,2818670548,United States,35-6126375,Cake - Bande Of Fruit,7,5122,0.773,mastercard,5048377087638305
+79,2024-07-18,2024-10-15,Mela,Bendin,mbendin26@wikimedia.org,6242310576,Mexico,73-1937833,"Trout - Hot Smkd, Dbl Fillet",1,3911,0.101,mastercard,5108755339535279
+80,2024-07-15,2023-12-19,Armstrong,Bentke,abentke27@google.fr,9045164558,United States,25-0830003,Green Scrubbie Pad H.duty,1,6849,0.7,mastercard,5048373734037785
+81,2024-03-21,2024-10-17,Remy,de Tocqueville,rdetocqueville28@rediff.com,2354429987,Mexico,91-1361758,"Wine - Red, Mouton Cadet",8,10442,0.17,mastercard,5108751577997784
+82,2024-07-22,2024-10-29,Arne,Westell,awestell29@nytimes.com,4343683687,United States,64-9432037,Longos - Chicken Caeser Salad,2,5843,0.332,mastercard,5048374510143516
+83,2024-05-29,2024-01-01,Matthiew,Petz,mpetz2a@webmd.com,2108438055,United States,12-0301057,Beef Cheek Fresh,8,5666,0.082,mastercard,5048370644728677
+84,2024-06-02,2024-04-08,Burl,McCheyne,bmccheyne2b@answers.com,6317290472,Italy,04-1781862,Longos - Assorted Sandwich,6,4664,0.8,mastercard,5048373635823754
+85,2024-11-29,2024-09-08,Goddart,Ogelsby,gogelsby2c@admin.ch,2993660675,Dominican Republic,70-8572197,Lamb Rack - Ontario,5,4143,0.327,mastercard,5048371391146063
+86,2024-08-06,2024-07-26,Sandro,Franciottoi,sfranciottoi2d@drupal.org,3185338327,United States,10-0019811,Trout Rainbow Whole,6,13633,0.787,mastercard,5048379665716586
+87,2024-11-25,2024-01-31,Dillie,Tiddeman,dtiddeman2e@reverbnation.com,9275931094,Colombia,32-7274154,Coffee Cup 8oz 5338cd,1,7816,0.259,mastercard,5108751903796728
+88,2024-03-17,2024-06-24,Andy,Leechman,aleechman2f@zimbio.com,5997309164,Colombia,44-6549641,Rice Paper,2,7249,0.625,mastercard,5108752735383735
+89,2024-11-23,2024-03-14,Brigit,McKie,bmckie2g@multiply.com,8298315721,Colombia,93-6058074,Cauliflower,9,7953,0.781,mastercard,5108758143501487
+90,2024-01-01,2024-06-20,Gare,Spradbrow,gspradbrow2h@patch.com,4069961575,Mexico,80-2822904,True - Vue Containers,1,4982,0.001,mastercard,5108757369104836
+91,2024-05-30,2024-11-09,Dionis,Rayer,drayer2i@nymag.com,9549896473,Colombia,23-0714269,Pepper - Red Thai,1,4069,0.327,mastercard,5108750411061930
+92,2024-07-07,2024-08-17,Wyatt,Tingey,wtingey2j@blogspot.com,1577604097,Mexico,30-9696679,Whmis Spray Bottle Graduated,3,8267,0.031,mastercard,5048374638844540
+93,2024-04-01,2024-01-05,Carine,Parysiak,cparysiak2k@fastcompany.com,3238378718,United States,36-5333346,Wine - Cabernet Sauvignon,10,5259,0.658,mastercard,5108759115360811
+94,2024-09-14,2024-03-21,Basile,Kobsch,bkobsch2l@state.tx.us,6034412368,Colombia,90-3763598,Wine - Alsace Gewurztraminer,8,6440,0.244,mastercard,5048370253725345
+95,2024-06-25,2024-08-26,Ansel,Habershon,ahabershon2m@businesswire.com,7276264502,United States,66-1008276,Teriyaki Sauce,5,6798,0.176,mastercard,5048378484893931
+96,2024-05-17,2024-03-27,Nehemiah,Coverly,ncoverly2n@twitpic.com,7636746909,Mexico,81-2555816,Alize Sunset,2,8815,0.864,mastercard,5048377065845740
+97,2024-03-18,2024-03-16,Orsola,Tregenna,otregenna2o@github.com,2147488296,United States,75-8118408,"Pepsi, 355 Ml",8,10808,0.862,mastercard,5048372419081068
+98,2024-08-22,2024-05-31,Irita,Tumioto,itumioto2p@domainmarket.com,2995665648,Italy,59-6399780,Chicken - Bones,5,12071,0.258,mastercard,5048371515310447
+99,2024-02-22,2024-03-02,Mendel,Roose,mroose2q@google.nl,6027459590,United States,85-1089220,Carbonated Water - Blackberry,9,11278,0.768,mastercard,5108756107840719
+100,2024-11-19,2024-10-13,Rebecka,Attwater,rattwater2r@blog.com,7345403148,Mexico,10-0019811,Bread - Granary Small Pull,3,12053,0.113,mastercard,5048376816034182

@@ -1,0 +1,11 @@
+id,nombre,apellido,nacimiento,nacionalidad,departamento,sucursal,sexo,telefono_personal,codigo_postal,salario,comision,vehiculo_asignado,hijos,flota
+37-8092889,Nelson,Esome,1985-01-21,United States,Sales,N,M,2026456291,20220,60267,0.77,CR-V,2,2671316311
+60-2972643,Pennie,Chatain,1978-08-02,United States,Legal,N,M,9121772444,31416,13599,0.83,C-Class,3,8705242293
+73-7638593,Diannne,Wike,1996-11-22,United States,Product Management,N,F,9155589774,88525,74654,0.64,Golf,4,6455942926
+25-0830003,Nickey,McLoughlin,2000-04-18,United States,Training,N,M,6826699619,76198,65634,0.35,Impreza,2,1872725051
+22-5211774,Nolly,Morgan,2003-05-09,United States,Product Management,N,M,2604218376,46896,30204,0.15,Forester,4,7401473273
+09-6442939,Nevil,Josef,1993-10-30,United States,Marketing,N,M,2129665234,11499,57113,0.38,Quattro,4,9811203800
+46-2060669,Christalle,Halbard,1993-08-04,United States,Business Development,N,F,2106631219,78265,57216,0.03,Expo,0,7668006840
+12-1404658,Wallas,Symons,1989-09-08,United States,Human Resources,N,M,7637661161,55590,16364,0.89,Cayman,4,7663380764
+04-0135880,Twyla,Nind,2000-05-21,Dominican Republic,Business Development,N,F,7622196573,11205,60378,0.12,GT-R,1,9568092636
+70-8572197,Antoni,Swinyard,1985-09-04,United States,Research and Development,N,M,8148254672,16534,51825,0.51,Caravan,4,4026983783

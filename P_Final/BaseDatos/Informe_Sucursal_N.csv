@@ -1,0 +1,11 @@
+id,sucursal,nombre,apellido,sexo,nacimiento,nacionalidad,departamento,salario,comision,monto_ventas,cant_ventas
+37-8092889,N,Nelson,Esome,M,1985-01-21,United States,Sales,60267,0.77,13546.0,1.0
+60-2972643,N,Pennie,Chatain,M,1978-08-02,United States,Legal,13599,0.83,9976.0,1.0
+73-7638593,N,Diannne,Wike,F,1996-11-22,United States,Product Management,74654,0.64,11748.0,2.0
+25-0830003,N,Nickey,McLoughlin,M,2000-04-18,United States,Training,65634,0.35,12397.0,2.0
+22-5211774,N,Nolly,Morgan,M,2003-05-09,United States,Product Management,30204,0.15,,
+09-6442939,N,Nevil,Josef,M,1993-10-30,United States,Marketing,57113,0.38,5577.0,1.0
+46-2060669,N,Christalle,Halbard,F,1993-08-04,United States,Business Development,57216,0.03,,
+12-1404658,N,Wallas,Symons,M,1989-09-08,United States,Human Resources,16364,0.89,13579.0,1.0
+04-0135880,N,Twyla,Nind,F,2000-05-21,Dominican Republic,Business Development,60378,0.12,,
+70-8572197,N,Antoni,Swinyard,M,1985-09-04,United States,Research and Development,51825,0.51,7281.0,1.0
